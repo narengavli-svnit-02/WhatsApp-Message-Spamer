@@ -1,4 +1,4 @@
-<h1 align="center">WhatsApp-Message-Spamer</h1>
+<h1 align="center">WhatsApp Message Spamer</h1>
 <h4>About Application:</h4>
 WhatsApp spam is undesirable, irrelevant and unconfirmed information or messages sent on WhatsApp. These spam messages contain malicious content and links that are used to spoof and hack data, present in your smartphone.
 
